@@ -1,0 +1,28 @@
+name: ludvikherrera
+favicon: null
+layout_spectrum: 0.9211688458453864
+typography_spectrum: 0.527999731246382
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8161014192737639
+  lightness: 0.4476250931620598
+  saturation: 0.7514131749048829
+  rhythmicContrast: 0.9338076328858733
+purpose: []
